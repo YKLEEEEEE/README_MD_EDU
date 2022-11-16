@@ -1,6 +1,17 @@
+### 10. 표
+|Header|Value|Description|  
+|:-------|:-------|-------:|
+|1|자바|웹 언어|
+|1|자바|웹 최강언어|
+|1|자바|웹 최강언어|
+
+### 9. 글자 강조(Emphasis)
+**굵은  글씨**  
+*이탤릭*  
+~~취소선~~ 
+
 ### 8. 이미지 넣기
-
-
+![가을낙엽](https://github.com/YKLEEEEEE/README_MD_EDU/blob/main/doc/imgs/%EA%B0%80%EC%9D%84.jpg "낙엽")
 ### 7. 하이퍼 링크
 [PCEK_CAFE](https://cafe.daum.net/pcwk "설명문구")
 
